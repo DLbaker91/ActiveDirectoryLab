@@ -1,4 +1,4 @@
-<h1>JActive Directory Home Lab</h1>
+<h1>Active Directory Home Lab</h1>
 
 <h2>Description</h2>
 In this lab, I used Oracle VM Virtual Box to configure and deploy a Windows 2019 server as an AD Domain Controller and a Windows 10 client to connect to the AD DC. I then utilized PowerShell to automate the provision, maintenance, and to deprovision user accounts.	Set up Remote Access Server (RAS) features to support NAT/PAT. Implementated DNS and DHCP services with custom scope. Finished by configuring File Servers with implementation of quotas and NTFS permissions.
